@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GUE1PKj4JMs=",
+  "dgSpecHash": "h3gLAZgHQmY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\thest\\RiderProjects\\BlazorGameStore\\GameStore.Frontend\\GameStore.Frontend.csproj",
+  "projectFilePath": "C:\\Users\\thest\\projects\\BlazorGameStore\\GameStore.Frontend\\GameStore.Frontend.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
